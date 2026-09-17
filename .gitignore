@@ -1,0 +1,13 @@
+# системное
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# редакторы
+.vscode/
+.idea/
+
+# временные файлы и скриншоты
+_*.png
+*.log
+.playwright-mcp/
